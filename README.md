@@ -47,32 +47,7 @@ flowchart TD
     linkStyle default stroke:#94A3B8,stroke-width:2px
 ```
 
-## 🔄 Project 
-```mermaid
-flowchart TD
-    A(["🚀 START"])
-    B["📁 Load Retail Sales Dataset"]
-    C["🔍 Explore Dataset"]
-    D["🧹 Clean Data"]
-    E["⚙️ Preprocess Data"]
-    F["📊 Perform Data Analysis"]
-    G["🧮 Calculate Sales Metrics"]
-    H["📈 Create Visualizations"]
-    I["💡 Identify Key Insights"]
-    J(["✅ END"])
-    A --> B --> C --> D --> E
-    E --> F --> G --> H --> I --> J
-    style A fill:#7C3AED,color:#FFFFFF,stroke:#5B21B6
-    style B fill:#DBEAFE,color:#1E40AF,stroke:#2563EB
-    style C fill:#D1FAE5,color:#065F46,stroke:#059669
-    style D fill:#FCE7F3,color:#9D174D,stroke:#DB2777
-    style E fill:#FEF3C7,color:#92400E,stroke:#D97706
-    style F fill:#CCFBF1,color:#115E59,stroke:#0D9488
-    style G fill:#FFEDD5,color:#9A3412,stroke:#EA580C
-    style H fill:#E0E7FF,color:#3730A3,stroke:#6366F1
-    style I fill:#DCFCE7,color:#166534,stroke:#16A34A
-    style J fill:#7C3AED,color:#FFFFFF,stroke:#5B21B6
-    ```
+
 
 ## 🛠️ Technologies & Tools Used
 

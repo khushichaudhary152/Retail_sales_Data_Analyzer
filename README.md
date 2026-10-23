@@ -125,12 +125,7 @@ flowchart TD
   </tr>
 </table>
 
-### 📥 Install Required Libraries
 
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-
----
 ## 📊 Project Output Flowchart
 
 ```mermaid

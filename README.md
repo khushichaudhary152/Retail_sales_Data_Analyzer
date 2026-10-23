@@ -119,7 +119,7 @@ flowchart TD
 * 💡 Data-Driven Decisions: Use analytical findings to support better retail business decisions.
 
 
-👩‍💻 About the Author
+##👩‍💻 About the Author
 
 <div align="center">
 

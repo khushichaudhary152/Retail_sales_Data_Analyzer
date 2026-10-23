@@ -165,21 +165,6 @@ flowchart TB
     ```
 
 
-## 📁 Project Structure
-```text
-Retail-Sales-Data-Analyzer/
-│
-├── 📂 dataset/
-│   └── retail_sales.csv
-│
-├── 📂 notebooks/
-│   └── retail_sales_analysis.ipynb
-│
-├── 📄 README.md```
-
-
-
-
 ## 🧠 Key Insights
 
 <div align="center">

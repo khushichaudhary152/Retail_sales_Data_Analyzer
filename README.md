@@ -85,27 +85,50 @@ flowchart TD
 
 ---
 
+
+---
+
 ## 📦 Requirements
 
-<div align="center">
-
-| 🛠️ Technology | 📝 Purpose |
-|:---|:---|
-| 🐍 **Python** | Core programming language |
-| 🐼 **Pandas** | Data loading, cleaning, and analysis |
-| 🔢 **NumPy** | Numerical computations |
-| 📊 **Matplotlib** | Creating charts and graphs |
-| 🎨 **Seaborn** | Statistical data visualization |
-| 📓 **Jupyter Notebook** | Interactive coding and data analysis |
-| 📁 **CSV Dataset** | Retail sales data for analysis |
-
-</div>
+<table>
+  <tr>
+    <th>🛠️ Technology</th>
+    <th>📝 Purpose</th>
+  </tr>
+  <tr>
+    <td>🐍 Python</td>
+    <td>Core programming language</td>
+  </tr>
+  <tr>
+    <td>🐼 Pandas</td>
+    <td>Data loading, cleaning, and analysis</td>
+  </tr>
+  <tr>
+    <td>🔢 NumPy</td>
+    <td>Numerical calculations</td>
+  </tr>
+  <tr>
+    <td>📊 Matplotlib</td>
+    <td>Charts and graphs</td>
+  </tr>
+  <tr>
+    <td>🎨 Seaborn</td>
+    <td>Statistical data visualization</td>
+  </tr>
+  <tr>
+    <td>📓 Jupyter Notebook</td>
+    <td>Interactive data analysis</td>
+  </tr>
+  <tr>
+    <td>📁 CSV Dataset</td>
+    <td>Retail sales data</td>
+  </tr>
+</table>
 
 ### 📥 Install Required Libraries
 
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
-```
 
 ---
 ## 📊 Project Output Flowchart

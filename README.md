@@ -46,7 +46,7 @@ flowchart TD
     style J fill:#FFE4E6,stroke:#E11D48,color:#881337,stroke-width:3px
     linkStyle default stroke:#94A3B8,stroke-width:2px
 ```
-## 🔄 Project Workflow
+## 🔄 Project
 
 ```mermaid
 flowchart TD
@@ -83,6 +83,70 @@ flowchart TD
     style J fill:#7C3AED,color:#FFFFFF,stroke:#5B21B6
 ```
 
+---
+
+## 📦 Requirements
+
+<div align="center">
+
+| 🛠️ Technology | 📝 Purpose |
+|:---|:---|
+| 🐍 **Python** | Core programming language |
+| 🐼 **Pandas** | Data loading, cleaning, and analysis |
+| 🔢 **NumPy** | Numerical computations |
+| 📊 **Matplotlib** | Creating charts and graphs |
+| 🎨 **Seaborn** | Statistical data visualization |
+| 📓 **Jupyter Notebook** | Interactive coding and data analysis |
+| 📁 **CSV Dataset** | Retail sales data for analysis |
+
+</div>
+
+### 📥 Install Required Libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
+
+---
+## 📊 Project Output Flowchart
+
+```mermaid
+flowchart TD
+    A(["🚀 Start Analysis"])
+    B["📂 Load CSV Dataset"]
+    C["🐼 Process Data with Pandas"]
+    D["🧹 Clean & Prepare Data"]
+    E["💰 Calculate Total Sales"]
+    F["🛍️ Analyze Product Performance"]
+    G["📊 Compare Categories"]
+    H["📈 Generate Charts & Graphs"]
+    I["🔥 Discover Sales Trends"]
+    J["💡 Generate Business Insights"]
+    K(["✅ Final Output"])
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
+    J --> K
+
+    style A fill:#6C3483,color:#FFFFFF,stroke:#512E5F
+    style B fill:#D6EAF8,color:#154360,stroke:#2874A6
+    style C fill:#D5F5E3,color:#145A32,stroke:#239B56
+    style D fill:#FADBD8,color:#78281F,stroke:#CB4335
+    style E fill:#FCF3CF,color:#7D6608,stroke:#D4AC0D
+    style F fill:#E8DAEF,color:#512E5F,stroke:#884EA0
+    style G fill:#D1F2EB,color:#0E6251,stroke:#17A589
+    style H fill:#FDEBD0,color:#784212,stroke:#E67E22
+    style I fill:#D4E6F1,color:#1B4F72,stroke:#3498DB
+    style J fill:#F5CBA7,color:#784212,stroke:#CA6F1E
+    style K fill:#6C3483,color:#FFFFFF,stroke:#512E5F
+```
 
 ## 🛠️ Technologies & Tools Used
 

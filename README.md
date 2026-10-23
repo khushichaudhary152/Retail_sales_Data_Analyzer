@@ -135,34 +135,7 @@ flowchart TD
     style K fill:#16A34A,stroke:#166534,color:#FFFFFF,stroke-width:3px
     linkStyle default stroke:#94A3B8,stroke-width:2px
      ```
-## 🎯 Project Objectives
-```mermaid
-flowchart TB
-    A(("🛍️ RETAIL SALES<br/>DATA ANALYZER"))
-    B(["📂 Data Loading"])
-    C(["🧹 Data Cleaning"])
-    D(["🔍 Data Exploration"])
-    E(["🧮 Sales Calculations"])
-    F(["📊 Category Analysis"])
-    G(["📈 Data Visualization"])
-    H(["💡 Sales Insights"])
-    A --- B
-    A --- C
-    A --- D
-    A --- E
-    A --- F
-    A --- G
-    A --- H
-    style A fill:#7C3AED,stroke:#4C1D95,color:#FFFFFF,stroke-width:4px
-    style B fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A,stroke-width:2px
-    style C fill:#FCE7F3,stroke:#DB2777,color:#831843,stroke-width:2px
-    style D fill:#EDE9FE,stroke:#8B5CF6,color:#4C1D95,stroke-width:2px
-    style E fill:#DCFCE7,stroke:#16A34A,color:#14532D,stroke-width:2px
-    style F fill:#FEF3C7,stroke:#D97706,color:#78350F,stroke-width:2px
-    style G fill:#CFFAFE,stroke:#0891B2,color:#164E63,stroke-width:2px
-    style H fill:#FFEDD5,stroke:#EA580C,color:#7C2D12,stroke-width:2px
-    linkStyle default stroke:#94A3B8,stroke-width:2px
-    ```
+
 
 
 ## 🧠 Key Insights

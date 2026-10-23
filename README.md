@@ -98,45 +98,8 @@ flowchart TD
   </tbody>
 </table>
 
-## 📊 Project Overview
-```mermaid
-flowchart TD
-    A(["🚀 START<br/>Retail Sales Data Analyzer"])
-    B[/"📁 Retail Sales CSV Dataset"/]
-    C["📥 Load Dataset<br/>Using Pandas"]
-    D["🔍 Data Exploration<br/>Inspect Rows & Columns"]
-    E["🧹 Data Cleaning<br/>Handle Missing Values"]
-    F["⚙️ Data Preprocessing<br/>Convert Data Types"]
-    G["📊 Exploratory Data Analysis<br/>Analyze Retail Sales"]
-    H["🧮 Sales Calculations<br/>Pandas & NumPy"]
-    I["📈 Data Visualization<br/>Matplotlib & Seaborn"]
-    J["💡 Sales Insights<br/>Identify Trends & Patterns"]
-    K(["✅ END<br/>Final Analysis Output"])
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-    H --> I
-    I --> J
-    J --> K
-    style A fill:#16A34A,stroke:#166534,color:#FFFFFF,stroke-width:3px
-    style B fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A,stroke-width:2px
-    style C fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E,stroke-width:2px
-    style D fill:#EDE9FE,stroke:#7C3AED,color:#3B0764,stroke-width:2px
-    style E fill:#FCE7F3,stroke:#DB2777,color:#831843,stroke-width:2px
-    style F fill:#FFEDD5,stroke:#EA580C,color:#7C2D12,stroke-width:2px
-    style G fill:#FEF3C7,stroke:#D97706,color:#78350F,stroke-width:2px
-    style H fill:#DCFCE7,stroke:#16A34A,color:#14532D,stroke-width:2px
-    style I fill:#CFFAFE,stroke:#0891B2,color:#164E63,stroke-width:2px
-    style J fill:#F3E8FF,stroke:#9333EA,color:#581C87,stroke-width:2px
-    style K fill:#16A34A,stroke:#166534,color:#FFFFFF,stroke-width:3px
-    linkStyle default stroke:#94A3B8,stroke-width:2px
-     ```
 
-
+    
 
 ## 🧠 Key Insights
 
